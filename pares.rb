@@ -3,7 +3,7 @@ suma = 0
 i = 0
 
 while i <= numero
-        if (numero%2==0)
+        if (i%2==0)
         suma += i
         i+=1 
         end
